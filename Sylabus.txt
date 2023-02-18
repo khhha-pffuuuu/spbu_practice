@@ -1,0 +1,17 @@
+A>=90%
+B>=85%
+C>=75%
+D>=70%
+E>=60%
+
+Course grade (zachot)
+	Attendance:
+		2 times for free
+		-5% of your grade for every time over those two
+
+70% - Quiz
+30% - HW
+
+Exam = Course grade*0.4 + your performance at the exam
+
+
