@@ -78,6 +78,7 @@ vector<int> LinearSort(vector<int> a, vector<int> b = {}) {
 
 int main()
 {
+	setlocale(LC_ALL, "RU");
 	vector <int> first_sorted_vector = { 1, 2, 3, 7, 13 };
 	vector <int> second_sorted_vector = { 4, 5, 10, 12, 15, 21 };
 
